@@ -5,10 +5,9 @@
 <link>https://github.com/</link>
 <description>Market Data</description>
 <language>ja</language>
-<item><title>① ドル円　158.37</title><description>① ドル円　158.37</description><guid isPermaLink="false">USDJPY=X</guid></item>
-<item><title>② 日経平均　65,018.95</title><description>② 日経平均　65,018.95</description><guid isPermaLink="false">^N225</guid></item>
-<item><title>③ S&amp;P500　7,704.59</title><description>③ S&amp;P500　7,704.59</description><guid isPermaLink="false">^GSPC</guid></item>
-<item><title>④ NYダウ　51,552.96</title><description>④ NYダウ　51,552.96</description><guid isPermaLink="false">^DJI</guid></item>
-<item><title>⑤ 原油　91.48</title><description>⑤ 原油　91.48</description><guid isPermaLink="false">CL=F</guid></item>
+<item>
+<title>ドル円 158.35　　　日経平均 65,018.95　　　S&amp;P500 7,704.69　　　NYダウ 51,554.80　　　原油 91.48</title>
+<guid isPermaLink="false">market-ticker</guid>
+</item>
 </channel>
 </rss>
