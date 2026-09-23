@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Market Data</title>
+    <link>https://github.com/</link>
+    <description>Market Data</description>
+    <language>ja</language>
+
+    <item>
+      <title>TEST 12345</title>
+      <description>TEST 12345</description>
+    </item>
+
+  </channel>
+</rss>
