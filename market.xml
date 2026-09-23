@@ -5,10 +5,10 @@
 <link>https://github.com/</link>
 <description>Market Data</description>
 <language>ja</language>
-<item><title>① ドル円　158.35</title><description>① ドル円　158.35</description><guid isPermaLink="false">USDJPY=X</guid></item>
+<item><title>① ドル円　158.38</title><description>① ドル円　158.38</description><guid isPermaLink="false">USDJPY=X</guid></item>
 <item><title>② 日経平均　65,018.95</title><description>② 日経平均　65,018.95</description><guid isPermaLink="false">^N225</guid></item>
-<item><title>③ S&amp;P500　7,699.19</title><description>③ S&amp;P500　7,699.19</description><guid isPermaLink="false">^GSPC</guid></item>
-<item><title>④ NYダウ　51,501.55</title><description>④ NYダウ　51,501.55</description><guid isPermaLink="false">^DJI</guid></item>
-<item><title>⑤ 原油　91.52</title><description>⑤ 原油　91.52</description><guid isPermaLink="false">CL=F</guid></item>
+<item><title>③ S&amp;P500　7,696.75</title><description>③ S&amp;P500　7,696.75</description><guid isPermaLink="false">^GSPC</guid></item>
+<item><title>④ NYダウ　51,488.12</title><description>④ NYダウ　51,488.12</description><guid isPermaLink="false">^DJI</guid></item>
+<item><title>⑤ 原油　91.47</title><description>⑤ 原油　91.47</description><guid isPermaLink="false">CL=F</guid></item>
 </channel>
 </rss>
